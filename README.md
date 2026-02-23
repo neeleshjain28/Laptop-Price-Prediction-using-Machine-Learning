@@ -75,5 +75,5 @@ Deploying using Flask
 
 👨‍💻 Author
 
-Lambert Beirut
+Neelesh Jain
 Engineering Student | Python Developer | Data Science Enthusiast
